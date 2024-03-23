@@ -47,8 +47,10 @@
 <ul>
 <li>MongoDB Atlas</li>
 <li>Cloud Storage</li>
-</ul>ul>
-Cloudinary for storing product images
+</ul>
+
+
+<h4>Thank you for visiting</h4>
 
 
 
